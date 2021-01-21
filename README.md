@@ -14,8 +14,11 @@ A Python script that sticks image files as cartridge labels onto Nintendo DS gam
 
 | Code | Meaning | Result |
 | ----------- | ----------- | ----------- |
-| `NTR-____-___` | Standard cartridge | Standard NDS-cartridge |
-| `TWL-____-___` | DSi enhanced cartridge | Standard NDS-cartridge |
+| `NTR-____-___` | Standard cart | Standard NDS-cart |
+| `TWL-____-___` | DSi enhanced cart | Standard NDS-cart |
+| `NTR-I___-___` | Infrared cart | Black/slightly red NDS-cart |
+| `TWL-I___-___` | Infrared cart | Black/slightly red NDS-cart |
+| `CTR-____-___` | Standard 3DS cart | Standard 3DS-cart |
 
 ---
 This project is not affiliated with or endorsed by Nintendo. It is a fan project made for use with homebrew software and private collecting purposes. Any use in connection with unlicensed software or copyright infringement is not allowed.
