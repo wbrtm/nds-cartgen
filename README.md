@@ -9,7 +9,13 @@ A Python script that sticks image files as cartridge labels onto Nintendo DS gam
 1. Create subdirectories `carts` and `carts/thumbnails` in the project directory
 
 ## Use
-* call `$python image_processing.py <path to label images>`
+* `$python image_processing.py <path to label images>`
+* The label images should be named according to the Nintendo DS [cartridge code pattern](https://www.reddit.com/r/Gameboy/comments/bux2j3/nintendo_cartridge_codes_decoded_what_that_number/). Supported codes are listed below.
+
+| Code | Meaning | Result |
+| ----------- | ----------- | ----------- |
+| `NTR-____-___` | Standard cartridge | Standard NDS-cartridge |
+| `TWL-____-___` | DSi enhanced cartridge | Standard NDS-cartridge |
 
 ---
 This project is not affiliated with or endorsed by Nintendo. It is a fan project made for use with homebrew software and private collecting purposes. Any use in connection with unlicensed software or copyright infringement is not allowed.
