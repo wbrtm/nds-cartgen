@@ -9,7 +9,7 @@ A Python script that sticks image files as cartridge labels onto Nintendo DS gam
 1. Create subdirectories `carts` and `carts/thumbnails` in the project directory
 
 ## Use
-* call `$python image-processing.py <path to label images>`
+* call `$python image_processing.py <path to label images>`
 
 ---
 This project is not affiliated with or endorsed by Nintendo. It is a fan project made for use with homebrew software and private collecting purposes. Any use in connection with unlicensed software or copyright infringement is not allowed.
