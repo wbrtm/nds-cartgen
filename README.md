@@ -22,4 +22,4 @@ A Python script that sticks image files as cartridge labels onto Nintendo DS gam
 
 ---
 This project is not affiliated with or endorsed by Nintendo. It is a fan project made for use with homebrew software and private collecting purposes. Any use in connection with unlicensed materials or copyright infringement is not allowed.
-If you want to use my code or images in another project or commercially please contact me first.
+If you want to use my code or images in another project or commercially please contact me.
